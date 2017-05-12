@@ -1,4 +1,3 @@
-package assignment6;
 
 public class SliderPuzzleGame {
     private static final int  NUM_BOARDS = 5;
