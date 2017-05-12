@@ -1,4 +1,3 @@
-package assignment6;
 
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;
