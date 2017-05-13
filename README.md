@@ -5,4 +5,4 @@ The objective of this game is to get the red horizontal piece out of the puzzle 
 
 ![Screenshot](Model.png)
 
-![Screenshot](SliderPuzzle.png)
+![Screenshot](SliderPuzzle2.png)
